@@ -1,6 +1,6 @@
 db.sqlite3
 *.sqlite3
-betterHourManager/
+BetterClassFinder/
 static/
 media/
 *.pyc
